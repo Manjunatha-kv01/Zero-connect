@@ -22,4 +22,5 @@ QR Code Generation: Use qrcode or segno library in Python.
 QR Code Scanning: Use JavaScript library like html5-qrcode on the receiver’s page.
 Support for text, images, videos, and general file formats.
 Simple UI with two buttons/pages → Send (upload & generate QR) and Receive (scan & download).
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/59490269-1872-44bd-8876-87f673ab09ff" />
 
